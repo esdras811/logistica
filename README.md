@@ -14,4 +14,4 @@ Dashboard focado na análise logística, com indicadores sobre entregas por cana
 Abra o `.pbix` 
 
 ## 🖼 Captura de Tela
-![Logística]()
+![Logística](Captura de tela 2025-07-03 131422.png)
